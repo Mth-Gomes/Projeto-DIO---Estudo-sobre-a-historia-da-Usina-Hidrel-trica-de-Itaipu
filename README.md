@@ -31,45 +31,45 @@ O notebook foi construído com fontes em vídeo e texto, buscando combinar mater
 # Perguntas de pesquisa
   As perguntas abaixo formam um roteiro adequado para testar o notebook. Antes da entrega final, as respostas devem ser conferidas com as respostas efetivamente produzidas pelo NotebookLM.
 
-  1. Qual foi o contexto que levou Brasil e Paraguai a negociar a construção da Usina de Itaipu?
+  **1. Qual foi o contexto que levou Brasil e Paraguai a negociar a construção da Usina de Itaipu?**
   Resumo de referência:
   O contexto que levou o Brasil e o Paraguai a negociarem a construção da Usina Hidrelétrica de Itaipu envolveu uma combinação de disputas territoriais seculares, necessidades de expansão energética e geopolítica de liderança regional na Bacia do Prata
 
 Fonte principal: O Colosso do Paraná: A Trajetória Diplomática, Geopolítica e de Engenharia da Usina Hidrelétrica Binacional de Itaipu
 
-  2. Quais foram os principais marcos da construção da Usina de Itaipu?
-  Resumo de referência:
-  # Marcos Diplomáticos e Legais:
+  **2. Quais foram os principais marcos da construção da Usina de Itaipu?**
+  Resumo de referência:  
+  **Marcos Diplomáticos e Legais**:
   Ata de Iguaçu (1966): Acordo inicial entre os chanceleres do Brasil e do Paraguai para estudar e explorar conjuntamente o potencial hídrico do Rio Paraná.
   Tratado de Itaipu (1973): Instrumento legal definitivo que autorizou a construção da usina e definiu as regras de partilha de energia.
   Criação da Itaipu Binacional (1974): Formação oficial da empresa responsável pela gestão do empreendimento.
   Acordo Tripartite Itaipu-Corpus (1979): Entendimento diplomático entre Brasil, Paraguai e Argentina para harmonizar as vazões do Rio Paraná e viabilizar a obra sem prejudicar os projetos argentinos a jusante.
   
-  # Marcos de Engenharia e Construção:
+  **Marcos de Engenharia e Construção**:
   Início das Obras Civis (1975): Mobilização dos canteiros de obras e construção das vilas habitacionais.
   Desvio do Rio Paraná (1978): Abertura do canal de desvio de 2 km com a implosão de ensecadeiras de concreto para secar o leito original do rio.
   Enchimento do Lago e Vertedouro (1982): Fechamento das comportas do canal de desvio, inundação da área de Sete Quedas em 14 dias e inauguração do vertedouro   pelos presidentes dos dois países.
 
-  # Operação e Atualidade:
+  **Operação e Atualidade**:
   Início da Geração Comercial (1984): Entrada em operação da primeira unidade geradora.
   Conclusão do Projeto Original (2007): Instalação da 19ª e 20ª turbinas, atingindo a capacidade instalada de 14.000 MW.
   Quitação da Dívida de Construção (2023): Pagamento das últimas parcelas do financiamento contraído há 50 anos para a obra.
 
 Fontes principais: O Colosso do Paraná: A Trajetória Diplomática, Geopolítica e de Engenharia da Usina Hidrelétrica Binacional de Itaipu; Tratado de Itaipu (26.4.1973); Ata de Iguaçu (22.06.1966; UHE Itaipu: 40 anos — um resgate da história - IBRACON; A Geopolítica da Energia na Fronteira Brasil-Paraguai: O Tratado de Itaipu.
 
-  3. Por que Argentina participou das negociações relacionadas à construção de Itaipu?
+  **3. Por que Argentina participou das negociações relacionadas à construção de Itaipu?**
   Resumo de referência:
   A participação da Argentina nas negociações relacionadas à Usina de Itaipu ocorreu devido a fatores hidrológicos, técnicos, geopolíticos e de direito internacional, uma vez que o Rio Paraná é um curso d'água internacional que flui do Brasil e do Paraguai em direção ao território argentino.
 
 Fonte principal: 1979-acuerdo-tripartito.pdf - COMIP; A Geopolítica da Energia na Fronteira Brasil-Paraguai: O Tratado de Itaipu; O Colosso do Paraná: A Trajetória Diplomática, Geopolítica e de Engenharia da Usina Hidrelétrica Binacional de Itaipu; Tratado de Itaipu (26.4.1973).
 
-  4. Quando Itaipu começou a produzir energia?
+  **4. Quando Itaipu começou a produzir energia?**
   Resumo de referência:
   A Usina Hidrelétrica de Itaipu começou a produzir energia oficialmente em 5 de maio de 1984, data em que entrou em operação comercial a sua primeira unidade geradora
 
 Fonte principal: A Maior Construção já Feita no Brasil - Usina de Itaipu; O Colosso do Paraná: A Trajetória Diplomática, Geopolítica e de Engenharia da Usina Hidrelétrica Binacional de Itaipu; Tratado de Itaipu (26.4.1973)
 
-  6. Por que a construção de Itaipu é considerada uma obra de grande relevância histórica e de engenharia?
+  **6. Por que a construção de Itaipu é considerada uma obra de grande relevância histórica e de engenharia?**
   Resumo de referência:
   A construção da Usina Hidrelétrica Binacional de Itaipu é considerada um marco histórico e de engenharia porque transformou um contencioso diplomático secular em uma parceria estratégica, estabeleceu recordes mundiais de geração de energia e envolveu desafios técnicos e operacionais de proporções inéditas
 
