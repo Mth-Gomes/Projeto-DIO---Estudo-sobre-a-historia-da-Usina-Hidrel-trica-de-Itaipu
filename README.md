@@ -1,4 +1,4 @@
-# Projeto-DIO---Estudo-sobre-a-historia-da-Usina-Hidrel-trica-de-Itaipu
+# Projeto DIO - estudo sobre a historia da usina Hidreltrica de Itaipu
 
 # Objetivo
 Estudo sobre o acordo e a construção da Usina Hidrelétrica de Itaipu.
